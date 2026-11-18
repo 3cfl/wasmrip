@@ -324,5 +324,19 @@
     "imageUrl": "img/btd6.jpg",
     "porter": "sexyplankton",
     "featured": true
+    },
+  {
+    "id": 48,
+    "name": "The Stanley Parable: Ultra Deluxe",
+    "gameUrl": "files/stanley/index.html",
+    "imageUrl": "img/stanley.jpg",
+    "porter": "apollo"
+  },
+  {
+    "id": 49,
+    "name": "Please, Don't Touch Anything 3D",
+    "gameUrl": "files/pdta3d/index.html",
+    "imageUrl": "img/pdta3d.jpg",
+    "porter": "apollo"
   }
 ]
